@@ -1,3 +1,10 @@
+
+"""
+Image Preprocessing Module
+
+Handles loading, resizing, normalization,
+and preparation of MRI images for CNN training.
+"""
 # scripts/preprocess.py
 
 import os
