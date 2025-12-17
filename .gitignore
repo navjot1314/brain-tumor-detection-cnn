@@ -1,3 +1,14 @@
+__pycache__/
+*.pyc
+
+data/
+images/
+masks/
+results/
+models/*.h5
+models/*.keras
+*.csv
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
