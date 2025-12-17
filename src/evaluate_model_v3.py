@@ -1,3 +1,11 @@
+"""
+Model Evaluation Module
+
+Evaluates trained CNN and transfer learning models
+using test datasets and performance metrics.
+"""
+
+
 import tensorflow as tf
 from tensorflow.keras.preprocessing.image import ImageDataGenerator
 from tensorflow.keras.models import load_model
