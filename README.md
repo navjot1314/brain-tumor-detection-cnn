@@ -35,8 +35,13 @@ Images are preprocessed and resized before being fed into the CNN model.
 
 
 ## Project Status
-Model architecture implemented and training workflow defined.
-Further training and optimization in progress.
+Core preprocessing, training, evaluation, prediction, and explainability
+modules have been implemented.
+
+Due to dataset size and licensing constraints, MRI datasets and trained
+model weights are not included in this repository. The repository focuses
+on code structure, methodology, and reproducible workflows.
+
 
 ## Future Improvements
 - Improve model accuracy using data augmentation
