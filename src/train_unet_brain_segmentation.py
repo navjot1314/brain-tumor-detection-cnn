@@ -1,3 +1,11 @@
+"""
+U-Net Brain Tumor Segmentation
+
+Implements a U-Net based convolutional neural network
+for pixel-level brain tumor segmentation on MRI images.
+"""
+
+
 import os
 import numpy as np
 import tensorflow as tf
