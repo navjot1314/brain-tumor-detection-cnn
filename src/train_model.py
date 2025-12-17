@@ -1,3 +1,10 @@
+"""
+CNN Training Module
+
+Defines and trains a Convolutional Neural Network
+for brain tumor classification using MRI images.
+"""
+
 # train_model_fixed.py
 
 import os
