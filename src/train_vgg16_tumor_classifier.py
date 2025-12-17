@@ -1,3 +1,11 @@
+"""
+VGG16-Based Tumor Classification
+
+Implements transfer learning using a pretrained VGG16
+network for brain tumor classification from MRI images.
+"""
+
+
 import os
 import numpy as np
 from tensorflow.keras.preprocessing.image import ImageDataGenerator
