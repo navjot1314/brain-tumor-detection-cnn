@@ -1,3 +1,11 @@
+"""
+Testing Utility
+
+Provides basic tests and sanity checks for the
+brain tumor detection pipeline.
+"""
+
+
 import os
 
 train_path = "data/train"
