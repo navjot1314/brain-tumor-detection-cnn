@@ -1,3 +1,10 @@
+"""
+Prediction Script
+
+Loads a trained CNN model and performs tumor prediction
+on new MRI images.
+"""
+
 # scripts/predict.py
 
 import sys
