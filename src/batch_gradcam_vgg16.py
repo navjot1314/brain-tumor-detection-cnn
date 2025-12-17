@@ -1,3 +1,11 @@
+"""
+Batch Grad-CAM Processing
+
+Applies Grad-CAM visualization across multiple MRI images
+to analyze model attention patterns at scale.
+"""
+
+
 import numpy as np
 import tensorflow as tf
 import cv2
