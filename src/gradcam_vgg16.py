@@ -1,3 +1,11 @@
+"""
+Grad-CAM Visualization Module
+
+Generates Grad-CAM heatmaps to visualize regions of MRI images
+that influence VGG16-based tumor classification decisions.
+"""
+
+
 import numpy as np
 import tensorflow as tf
 import cv2
