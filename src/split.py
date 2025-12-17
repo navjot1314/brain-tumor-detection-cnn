@@ -1,3 +1,10 @@
+"""
+Dataset Splitting Module
+
+Handles splitting MRI image datasets into
+training and testing sets in a reproducible manner.
+"""
+
 import os
 import shutil
 import random
